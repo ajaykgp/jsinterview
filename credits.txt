@@ -1,3 +1,3 @@
-2014 Sebastian Porto
+2014 Nitin Surana
 
-Created with Workshopper from Rod Vagg
+Created with Workshopper & PlanetProto from Rod Vagg & Sebastian Porto respectively.

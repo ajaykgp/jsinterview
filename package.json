@@ -1,17 +1,17 @@
 {
-  "name": "planetproto",
-  "version": "0.5.3",
-  "description": "A Workshop for understanding JavaScript prototypes",
+  "name": "jsinterview",
+  "version": "0.1.0",
+  "description": "Snapwiz Javascript Exercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "planetproto": "planetproto.js"
+    "snapwizjs": "snapwizjs.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sporto/planetproto.git"
+    "url": "https://github.com/nitinsurana/planetproto.git"
   },
   "keywords": [
     "workshop",
@@ -22,12 +22,12 @@
     "tutorial",
     "lesson"
   ],
-  "author": "Sebastian Porto",
+  "author": "Nitin Surana",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sporto/planetproto/issues"
   },
-  "homepage": "https://github.com/sporto/planetproto",
+  "homepage": "https://github.com/nitinsurana/planetproto",
   "dependencies": {
     "workshopper": "~1.0.0-alpha07",
     "colors-tmpl": "~0.1.0",

@@ -12,7 +12,7 @@ robot.__proto__ = machine;
 
 robby.__proto__ = robot;
 
-claim(robby.motors, 4);
+claim(robby.motors, 8);
 
 claim(robby.friendly, true);
 

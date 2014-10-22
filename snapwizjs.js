@@ -4,8 +4,8 @@ const workshopper = require('workshopper'),
 	path        = require('path'),
 	credits     = require('./credits'),
 	menu        = require('./exercises/menu'),
-	name        = 'planetproto',
-	title       = 'Understanding JavaScript prototypes',
+	name        = 'snapwizjs',
+	title       = 'Snapwiz Javascript Exercise',
 	subtitle    = '\x1b[23mSelect an exercise and hit \x1b[3mEnter\x1b[23m to begin'
 
 

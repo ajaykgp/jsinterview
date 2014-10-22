@@ -1,3 +1,4 @@
+//Please contact the HR in case of a solution
 var a = 10;
 
 function f(){
@@ -9,7 +10,7 @@ var output_one = undefined;		//__ means fill it here
 claim(x.a,output_one);		//This should return true
 
 x.f = f;
-var output_two = undefined ;
+var output_two = undefined;
 claim(x.a,output_two);
 
 x.f();
@@ -20,6 +21,9 @@ f();
 var output_four = 25;
 claim(x.a,output_four);
 
+
+// ------------------------------------------------
+// Common JS exports for verification, don't modify
 module.exports = {
 	output_one: output_one,
 	output_two: output_two,
