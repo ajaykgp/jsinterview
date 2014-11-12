@@ -1,4 +1,4 @@
-#Snapwiz Javascript Command-Line Interview Exercises for pure Javascript knowledge evaluation
+#Snapwiz javascript command-line interview exercises for pure javascript knowledge evaluation
 
 ##Basic Javascript
 
